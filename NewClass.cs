@@ -6,7 +6,7 @@ namespace PISLabVj1
 {
     class NewClass
     {
-        int metoda()
+                int metoda ()
         {
             return 4;
         }
